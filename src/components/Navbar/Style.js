@@ -25,7 +25,7 @@ export const Container = styled.div`
       justify-items: center;
     }
 
-    a {
+    li {
       font-size: 1.2rem;
       color: #fff;
       font-weight: bold;
