@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Wrapper } from "./Style";
+import { Container } from "./Style";
 
 const Worship = () => {
   return (

@@ -12,30 +12,20 @@ const Footer = () => {
         </div>
         <div className="about">
           <ul>
-            <li>
-              <a href="#">About us</a>
-            </li>
-            <li>
-              <a href="#">Contact us</a>
-            </li>
+            <li>About us</li>
+            <li>Contact uu</li>
           </ul>
         </div>
         <div className="socials">
           <ul>
             <li>
-              <a href="#">
-                <FaFacebook />
-              </a>
+              <FaFacebook />
             </li>
             <li>
-              <a href="#">
-                <FaTwitter />
-              </a>
+              <FaTwitter />
             </li>
             <li>
-              <a href="#">
-                <FaYoutube />
-              </a>
+              <FaYoutube />
             </li>
           </ul>
         </div>
