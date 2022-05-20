@@ -23,6 +23,26 @@ export const Container = styled.div`
           object-fit: cover;
           object-position: center;
         }
+
+        button {
+          border: none;
+          background-color: #f65719;
+          color: #fff;
+          font-size: 1.2rem;
+          margin-top: 1rem;
+          padding: 1rem;
+          border-radius: 10px;
+          cursor: pointer;
+          transition: all 0.2s ease-in;
+          border: 2px solid #f65719;
+          font-weight: bold;
+
+          &:hover {
+            color: #25284f;
+            background: none;
+            border: 2px solid #f65719;
+          }
+        }
       }
     }
   }
